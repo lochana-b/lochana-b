@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lochana</h1>
-<h3 align="center">A passionate AI/ML enthusiast from Bangalore,India</h3>
+<h3 align="center">A passionate Computer Vision and Deep Learning Developer from Bangalore, India.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lochana-b&label=Profile%20views&color=0e75b6&style=flat" alt="lochana-b" />
 </p>
 
 <p align="center">
-🔭 I’m currently working on Image classification using CLIP 
+🔭 I’m currently working on Image classification using CLIP.
 </p>
----
 
 ## 🌐 Socials:
 
