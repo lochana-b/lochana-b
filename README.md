@@ -5,8 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=lochana-b&label=Profile%20views&color=0e75b6&style=flat" alt="lochana-b" />
 </p>
 
-- 🔭 I’m currently working on Image classification using CLIP 
-
+<p align="center">
+🔭 I’m currently working on Image classification using CLIP 
+</p>
 ---
 
 ## 🌐 Socials:
